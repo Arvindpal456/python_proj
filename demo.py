@@ -1,1 +1,1 @@
-pt("Hello World ------- !! new update 1 ")
+print("Hello World ------- !! new update 1 ")
